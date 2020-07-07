@@ -1,0 +1,23 @@
+.about-me-container {
+  color: #ffffff;
+  padding-bottom: 64px;
+}
+
+.about-me-heading {
+  position: relative;
+  text-decoration: underline;
+  padding-left: 64px;
+  top: 0;
+  left: 0;
+}
+
+.about-me-p {
+  padding: 64px;
+}
+
+.details-container {
+  background-color: #2a2a2a;
+  text-align: center;
+  padding-top: 64px;
+  padding-bottom: 64px;
+}

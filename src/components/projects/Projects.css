@@ -1,0 +1,18 @@
+.projects-heading {
+  text-align: right;
+  padding-right: 64px;
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+.card-title {
+  color: black;
+}
+
+.cardrow {
+  padding: 64px;
+}
+
+.card {
+  width: 350px;
+}

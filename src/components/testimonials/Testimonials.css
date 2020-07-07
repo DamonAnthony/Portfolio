@@ -1,0 +1,20 @@
+.cover {
+  padding-top: 0;
+
+  padding-left: 64px;
+  padding-right: 64px;
+}
+
+.testimonial-heading {
+  color: #ffffff;
+  padding-bottom: 64px;
+  text-decoration: underline;
+}
+
+.carousel {
+  text-align: center;
+}
+
+.carousel-item {
+  background-color: #2a2a2a;
+}

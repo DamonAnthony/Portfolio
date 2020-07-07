@@ -1,0 +1,25 @@
+.contact-heading {
+  text-decoration: underline;
+}
+
+.bottom-button {
+  margin: 2px;
+}
+
+.made-by {
+  font-size: 24px;
+}
+.page-footer {
+  background-color: #2a2a2a;
+}
+.row1 {
+  position: relative;
+  right: 0;
+  text-align: right;
+}
+
+.footer-copyright {
+  position: relative;
+  bottom: 0;
+  background-color: #2a2a2a;
+}
