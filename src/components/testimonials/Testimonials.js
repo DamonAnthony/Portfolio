@@ -1,6 +1,5 @@
 import React, { useEffect } from "react";
 import "./Testimonials.css";
-import "./TestimonialCarousel";
 
 const Testimonials = () => {
   return (

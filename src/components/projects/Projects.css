@@ -1,8 +1,23 @@
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  max-width: 100%;
+}
+
 .projects-heading {
   text-align: right;
   padding-right: 64px;
   color: #ffffff;
   text-decoration: underline;
+}
+
+.card {
+  display: inline-block;
+  margin: 8px;
+  max-width: 300px;
+  position: relative;
 }
 
 .card-title {
