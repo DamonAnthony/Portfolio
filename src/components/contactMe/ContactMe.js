@@ -19,6 +19,9 @@ const ContactMe = () => {
               </h1>
               <ul>
                 <li>
+                  <div className="number">Phone: +27 81 525 8193</div>
+                </li>
+                <li>
                   <a
                     href="https://github.com/DamonAnthony"
                     class="waves-effect waves-light light-green accent-3 btn"
