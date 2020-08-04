@@ -14,11 +14,7 @@ const landing = () => {
 
   return (
     <div className="landing-container">
-      <canvas class="background">
-        <div className="landing-text">
-          <p>Damon Anthony</p>
-        </div>
-      </canvas>
+      <canvas class="background"></canvas>
     </div>
   );
 };
