@@ -14,14 +14,16 @@
 }
 
 .card {
+  color: #ffffff;
   display: inline-block;
+  background-color: #3a3a3a;
   margin: 8px;
   max-width: 300px;
   position: relative;
 }
 
 .card-title {
-  color: black;
+  color: #ffffff;
 }
 
 .cardrow {
@@ -30,4 +32,8 @@
 
 .card {
   width: 350px;
+}
+
+.card-action {
+  color: #ffffff;
 }

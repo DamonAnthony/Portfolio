@@ -9,7 +9,7 @@ const AboutMe = () => {
       </h1>
       <p className="about-me-p">
         I am a respectful, hardworking and disciplined individual who loves
-        learning new things especially related totechnology. I have a passion
+        learning new things especially related to technology. I have a passion
         for coding and working with technology. I am patient and like helping
         others and sharing my knowledge with others.I have been exposed to
         computers since I was 3 years old as my dad used to fix them. As I grew

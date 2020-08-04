@@ -16,7 +16,7 @@ const landing = () => {
     <div className="landing-container">
       <canvas class="background">
         <div className="landing-text">
-          <p>Doot Doot Doot</p>
+          <p>Damon Anthony</p>
         </div>
       </canvas>
     </div>

@@ -20,7 +20,7 @@ const Projects = () => {
             </p>
           </div>
           <div className="card-action">
-            <a className="black-text project-link" href="!#">
+            <a className="white-text project-link" href="!#">
               View project
             </a>
           </div>
@@ -35,7 +35,7 @@ const Projects = () => {
           </div>
           <div className="card-action">
             <a
-              className="black-text project-link"
+              className="white-text project-link"
               href="https://damonanthony.github.io/ContactKeeper/"
             >
               View project
@@ -53,7 +53,7 @@ const Projects = () => {
           <div className="card-action ">
             <a
               href="https://damonanthony.github.io/IT-Logger/"
-              className="black-text project-link"
+              className="white-text project-link"
             >
               View project
             </a>
