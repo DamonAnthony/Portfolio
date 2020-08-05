@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f3043f0f8b930d0ee503049a50939e61",
+    "revision": "c0e7752d63f9761fcda725d4abff19ec",
     "url": "/Portfolio/index.html"
   },
   {
-    "revision": "ca6becf46ed065a50f11",
+    "revision": "18f52a82df05cfb19552",
     "url": "/Portfolio/static/css/2.9dff4bae.chunk.css"
   },
   {
-    "revision": "7bdb2f90da5ddcb7f0a6",
+    "revision": "1a9d5d8a3535146a72fd",
     "url": "/Portfolio/static/css/main.532cbf52.chunk.css"
   },
   {
-    "revision": "ca6becf46ed065a50f11",
-    "url": "/Portfolio/static/js/2.3ca73717.chunk.js"
+    "revision": "18f52a82df05cfb19552",
+    "url": "/Portfolio/static/js/2.adc45c32.chunk.js"
   },
   {
     "revision": "2cb7374f75b99a1a3249e3040b12f881",
-    "url": "/Portfolio/static/js/2.3ca73717.chunk.js.LICENSE.txt"
+    "url": "/Portfolio/static/js/2.adc45c32.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7bdb2f90da5ddcb7f0a6",
-    "url": "/Portfolio/static/js/main.c5a93160.chunk.js"
+    "revision": "1a9d5d8a3535146a72fd",
+    "url": "/Portfolio/static/js/main.0d4d54e1.chunk.js"
   },
   {
     "revision": "3bd9cfc7f0b9814341f4",
     "url": "/Portfolio/static/js/runtime-main.f557120a.js"
+  },
+  {
+    "revision": "3dd0e2f60be9ca1bbe973508d5669608",
+    "url": "/Portfolio/static/media/BaconBits.3dd0e2f6.jpeg"
   },
   {
     "revision": "47b18500dc2c0bed2aacdf7e97208de5",
