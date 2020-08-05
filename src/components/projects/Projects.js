@@ -10,17 +10,17 @@ const Projects = () => {
       <div className="cards">
         <div id="card1" className="card medium card1">
           <div className="card-image">
-            <img src="!#" alt="Final Project" />
+            <img src={require("./BaconBits.jpeg")} alt="Final Project" />
           </div>
           <div className="card-content">
-            <h5>Lorem Ipsum</h5>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            </p>
+            <h5>Bacon'sBits</h5>
+            <p>My video game e-commerce site</p>
           </div>
           <div className="card-action">
-            <a className="white-text project-link" href="!#">
+            <a
+              className="white-text project-link"
+              href="https://polar-badlands-63420.herokuapp.com/"
+            >
               View project
             </a>
           </div>
